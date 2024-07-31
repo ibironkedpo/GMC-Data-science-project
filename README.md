@@ -49,9 +49,8 @@ I attended an intensive Data Science bootcamp at Gomycode Nigeria Yaba-Hackerspa
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
 
-- 📧 **Email**: your-email@example.com
-- 💼 **LinkedIn**: [Your LinkedIn](link-to-your-linkedin)
-- 🐙 **GitHub**: [Your GitHub](link-to-your-github)
+- 📧 **Email**: ibironkedpo@gmail.com
+- 💼 **LinkedIn**: www.linkedin.com/in/ibironke-ibidapo-5a5951319
 
 ## 🌟 Acknowledgements
 
